@@ -75,7 +75,7 @@ flight-price-predictor/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/flight-price-predictor.git
+git clone https://github.com/AM91ER/flight-price-predictor.git
 cd flight-price-predictor
 ```
 
