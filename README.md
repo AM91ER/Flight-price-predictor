@@ -18,7 +18,7 @@ An end-to-end machine learning project that predicts domestic flight prices in I
 
 ##  Live Demo
 
-**[Try the App →](https://flight-price-predictor.streamlit.app)**
+**[Try the App →](https://flight-price-predictor-4hsrhy57nub58cesowpib2.streamlit.app/)**
 
 ##  Key Findings
 
