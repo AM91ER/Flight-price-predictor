@@ -59,7 +59,6 @@ flight-price-predictor/
 ├── data/
 │   ├── raw/                # Original dataset
 │   └── processed/          # Cleaned dataset
-├── Notebooks/              # Jupyter notebooks (Phase 1-6)
 ├── main.py                 # CLI entry point for training
 ├── requirements.txt        # Python dependencies
 └── README.md
